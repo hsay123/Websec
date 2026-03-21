@@ -37,6 +37,9 @@ websec/
 ```
 <div align="center">
   <img src="Screenshot From 2026-03-21 22-52-47.png" width="800" alt="System Architecture"/>
+  img{
+   border-radius:10px;
+  }
 </div>
 ```
 
