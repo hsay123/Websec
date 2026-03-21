@@ -34,6 +34,11 @@ websec/
 ├── report.html        # Output HTML report (auto-generated)
 ├── README.md          # You're reading this
 └── requirements.txt   # Python dependencies
+```
+<div align="center">
+  <img src="Screenshot From 2026-03-21 22-52-47.png" width="800" alt="System Architecture"/>
+</div>
+```
 
 
 ⚙️ Usage
